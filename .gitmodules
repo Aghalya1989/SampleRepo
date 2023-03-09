@@ -1,4 +1,0 @@
-[submodule "QAScripts"]
-	path = qa-scripts
-	url = https://github.com/Aghalya1989/SampleRepo.git
-	branch = main
